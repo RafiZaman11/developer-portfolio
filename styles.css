@@ -131,3 +131,10 @@ main{
     border-radius: 5px;
     padding: 30px;
 }
+.contact .section-title{
+    text-align: left;
+}
+.contact{
+    display: flex;
+    gap: 50px;
+}
